@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TesXu
+- 🌱 I’m currently learning C++
+- 📫 How to reach me tnghiatuan2606@gmail.com
